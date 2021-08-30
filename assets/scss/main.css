@@ -1,0 +1,12 @@
+.main {
+  position: absolute;
+  left: 240px;
+  transition: 0.5s;
+  width: auto;
+}
+
+.content {
+  padding-left: 20px;
+  padding-top: 50px;
+}
+/*# sourceMappingURL=main.css.map */
